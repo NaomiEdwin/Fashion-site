@@ -1,0 +1,36 @@
+*
+.navigation{
+    display: flex;
+    background-color: darkslateblue;
+    align-items: center;
+    color: white;
+
+    
+    
+}
+.navimage2{
+    width: 100px;
+    height: 50px;
+
+}
+.links > a{
+    margin-left:10px;
+    color: white;
+}
+.hero{
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background-image:soil in hand image.jfif;margin: 0px;
+        
+}
+
+
+
+
+
+
+
+
+
